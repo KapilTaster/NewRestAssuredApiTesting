@@ -1,0 +1,50 @@
+23:47:13.114 [main] INFO  api.test.User_test - ----------Posting the user------------ 
+23:47:15.121 [main] INFO  api.test.User_test - ----------User Created------------ 
+23:47:15.132 [main] INFO  api.test.User_test - ----------get the user------------ 
+23:47:16.570 [main] INFO  api.test.User_test - ----------User achiverd------------ 
+23:47:16.572 [main] INFO  api.test.User_test - ----------Updateing data------------ 
+23:47:16.918 [main] INFO  api.test.User_test - ---------After Updattion------------ 
+23:47:16.918 [main] INFO  api.test.User_test - ----------After Updattion----------- 
+23:47:17.611 [main] INFO  api.test.User_test - ----------After Updation Getting user------------ 
+23:47:17.615 [main] INFO  api.test.User_test - ----------Deleting user------------ 
+23:47:18.079 [main] INFO  api.test.User_test - ----------USer Deleted------------ 
+23:50:13.528 [main] INFO  api.test.User_test - ----------Posting the user------------ 
+23:50:14.943 [main] INFO  api.test.User_test - ----------User Created------------ 
+23:50:14.951 [main] INFO  api.test.User_test - ----------get the user------------ 
+23:50:15.177 [main] INFO  api.test.User_test - ----------User achiverd------------ 
+23:50:15.178 [main] INFO  api.test.User_test - ----------Updateing data------------ 
+23:50:15.387 [main] INFO  api.test.User_test - ---------After Updattion------------ 
+23:50:15.387 [main] INFO  api.test.User_test - ----------After Updattion----------- 
+23:50:15.591 [main] INFO  api.test.User_test - ----------After Updation Getting user------------ 
+23:50:15.592 [main] INFO  api.test.User_test - ----------Deleting user------------ 
+23:50:15.785 [main] INFO  api.test.User_test - ----------USer Deleted------------ 
+00:02:35.051 [main] INFO  api.test.User_test - ----------Posting the user------------ 
+00:02:36.547 [main] INFO  api.test.User_test - ----------User Created------------ 
+00:02:36.558 [main] INFO  api.test.User_test - ----------get the user------------ 
+00:02:36.780 [main] INFO  api.test.User_test - ----------User achiverd------------ 
+00:02:36.782 [main] INFO  api.test.User_test - ----------Updateing data------------ 
+00:02:36.987 [main] INFO  api.test.User_test - ---------After Updattion------------ 
+00:02:36.987 [main] INFO  api.test.User_test - ----------After Updattion----------- 
+00:02:37.183 [main] INFO  api.test.User_test - ----------After Updation Getting user------------ 
+00:02:37.185 [main] INFO  api.test.User_test - ----------Deleting user------------ 
+00:02:37.392 [main] INFO  api.test.User_test - ----------USer Deleted------------ 
+00:53:54.593 [main] INFO  api.test.User_test - ----------Posting the user------------ 
+00:53:56.065 [main] INFO  api.test.User_test - ----------User Created------------ 
+00:53:56.076 [main] INFO  api.test.User_test - ----------get the user------------ 
+00:53:56.312 [main] INFO  api.test.User_test - ----------User achiverd------------ 
+00:53:56.313 [main] INFO  api.test.User_test - ----------Updateing data------------ 
+00:53:56.519 [main] INFO  api.test.User_test - ---------After Updattion------------ 
+00:53:56.519 [main] INFO  api.test.User_test - ----------After Updattion----------- 
+00:53:56.717 [main] INFO  api.test.User_test - ----------After Updation Getting user------------ 
+00:53:56.719 [main] INFO  api.test.User_test - ----------Deleting user------------ 
+00:53:56.932 [main] INFO  api.test.User_test - ----------USer Deleted------------ 
+00:58:13.744 [main] INFO  api.test.User_test - ----------Posting the user------------ 
+00:58:15.095 [main] INFO  api.test.User_test - ----------User Created------------ 
+00:58:15.106 [main] INFO  api.test.User_test - ----------get the user------------ 
+00:58:15.322 [main] INFO  api.test.User_test - ----------User achiverd------------ 
+00:58:15.324 [main] INFO  api.test.User_test - ----------Updateing data------------ 
+00:58:15.538 [main] INFO  api.test.User_test - ---------After Updattion------------ 
+00:58:15.538 [main] INFO  api.test.User_test - ----------After Updattion----------- 
+00:58:15.734 [main] INFO  api.test.User_test - ----------After Updation Getting user------------ 
+00:58:15.737 [main] INFO  api.test.User_test - ----------Deleting user------------ 
+00:58:15.927 [main] INFO  api.test.User_test - ----------USer Deleted------------ 
